@@ -1,0 +1,7 @@
+# Test generated files and directories
+tests/results/
+tests/data/
+
+# Also ignore any encryption/decryption files in the root directory
+*.enc
+*.dec
